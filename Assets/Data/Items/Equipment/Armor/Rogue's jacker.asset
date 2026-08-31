@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ed824408b3d9b499467eb84cdf2522, type: 3}
+  m_Name: Rogue's jacker
+  m_EditorClassIdentifier: 
+  itemtype: 1
+  itemName: Rogue's jacker
+  icon: {fileID: 1738635711, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  itemId: b8cf0a17a99ef514993de6725bf8de11
+  dropChance: 5.4
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: d50b8a37417fbe54f806055327ca9a00, type: 2}
+  vitality: 0
+  strength: 0
+  agility: 5
+  intelligence: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  maxHealth: 50
+  armor: 30
+  evasion: 5
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials: []
